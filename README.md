@@ -12,4 +12,4 @@ FoundryNet runs **21 MCP data servers** — financial, cyber, regulatory, patent
 - **[financial-signals-mcp](https://github.com/FoundryNet/financial-signals-mcp)** — derived financial intelligence; one of the 21-server data network.
 - **[mint-attest-skill](https://github.com/FoundryNet/mint-attest-skill)** — the FoundryNet plugin marketplace for Claude Code.
 
-🔗 **[foundrynet.io](https://foundrynet.io)** — every response verified.
+🔗 **[foundrynet.io](https://foundrynet.io?utm_source=github&utm_medium=readme&utm_campaign=profile)** — every response verified.
